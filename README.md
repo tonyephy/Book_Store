@@ -1,6 +1,4 @@
-Here's an updated version of your README with a more structured and concise format:
 
----
 
 # 📚 XML Bookstore Catalog
 
