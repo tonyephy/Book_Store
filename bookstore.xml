@@ -1,0 +1,43 @@
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+    <book category="children">
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <price>15.59</price>
+        <isbn>978-0747532743</isbn>
+        <category>children</category>
+        <publication_year>1997</publication_year>
+    </book>
+    <book category="fiction">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <price>16.39</price>
+        <isbn>978-0743273565</isbn>
+        <category>fiction</category>
+        <publication_year>1925</publication_year>
+    </book>
+    <book category="fantasy">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <price>12.99</price>
+        <isbn>978-0547928227</isbn>
+        <category>fantasy</category>
+        <publication_year>1937</publication_year>
+    </book>
+    <book category="science fiction">
+        <title>Dune</title>
+        <author>Frank Herbert</author>
+        <price>18.99</price>
+        <isbn>978-0441172719</isbn>
+        <category>science fiction</category>
+        <publication_year>1965</publication_year>
+    </book>
+    <book category="non-fiction">
+        <title>Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <price>22.45</price>
+        <isbn>978-0062316097</isbn>
+        <category>non-fiction</category>
+        <publication_year>2014</publication_year>
+    </book>
+</bookstore>
